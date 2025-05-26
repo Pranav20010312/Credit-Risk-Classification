@@ -71,14 +71,19 @@ Credit risk modeling is a critical area in finance that helps institutions asses
 8. ## 📈 Evaluation Metrics
 
 -Accuracy: Correctly predicted instances
--Precision: Proportion of positive predictions that are correct
--Recall: Proportion of actual positives that were predicted
--F1 Score: The harmonic mean of Precision and Recall
--AUC-ROC Curve: Measures the ability to distinguish between classes
--Gini Coefficient: Shows hoe erll the model is performing 
 
-> ✔️ **AUC of 0.98**: Indicates excellent separation of defaulters from non-defaulters  
-> ✔️ **Gini Coefficient of 0.96**: Suggests strong rank ordering and predictive power
+-Precision: Proportion of positive predictions that are correct
+
+-Recall: Proportion of actual positives that were predicted
+
+-F1 Score: The harmonic mean of Precision and Recall
+
+-AUC-ROC Curve: Measures the ability to distinguish between classes
+
+-Gini Coefficient: Shows how well the model is performing 
+
+> **AUC of 0.98**: Indicates excellent separation of defaulters from non-defaulters  
+> **Gini Coefficient of 0.96**: Suggests strong rank ordering and predictive power
 
 ## 📊 Final Outcome
 The model exhibits **high recall** and **lower precision**, which aligns with the business goal of minimizing financial risk. In credit risk modeling, **recall is more important**, as failing to identify a defaulter (false negative) is more costly than incorrectly flagging a good borrower (false positive).
