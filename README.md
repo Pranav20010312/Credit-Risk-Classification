@@ -82,8 +82,8 @@ Credit risk modeling is a critical area in finance that helps institutions asses
 
 -Gini Coefficient: Shows how well the model is performing 
 
-> **AUC of 0.98**: Indicates excellent separation of defaulters from non-defaulters  
-> **Gini Coefficient of 0.96**: Suggests strong rank ordering and predictive power
+ -**AUC of 0.98**: Indicates excellent separation of defaulters from non-defaulters  
+-**Gini Coefficient of 0.96**: Suggests strong rank ordering and predictive power
 
 ## 📊 Final Outcome
 The model exhibits **high recall** and **lower precision**, which aligns with the business goal of minimizing financial risk. In credit risk modeling, **recall is more important**, as failing to identify a defaulter (false negative) is more costly than incorrectly flagging a good borrower (false positive).
