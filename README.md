@@ -85,8 +85,12 @@ Credit risk modeling is a critical area in finance that helps institutions asses
  -**AUC of 0.98**: Indicates excellent separation of defaulters from non-defaulters  
 -**Gini Coefficient of 0.96**: Suggests strong rank ordering and predictive power
 
-## 📊 Final Outcome
+## 📊 Results
 The model exhibits **high recall** and **lower precision**, which aligns with the business goal of minimizing financial risk. In credit risk modeling, **recall is more important**, as failing to identify a defaulter (false negative) is more costly than incorrectly flagging a good borrower (false positive).
 
 The machine learning model achieves a **high level of accuracy**  in predicting credit risk. Among the algorithms tested, **Logistic Regression** emerged as the best choice due to its balance of performance and interpretability.
+
+## 💼 Business Impact
+-Reduces default risk by accurately identifying high-risk borrowers, helping minimize financial losses.
+-Improves loan portfolio quality by ensuring approved borrowers are more likely to repay.
 
