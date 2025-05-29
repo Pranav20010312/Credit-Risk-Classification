@@ -92,5 +92,6 @@ The machine learning model achieves a **high level of accuracy**  in predicting 
 
 ## 💼 Business Impact
 -Reduces default risk by accurately identifying high-risk borrowers, helping minimize financial losses.
+
 -Improves loan portfolio quality by ensuring approved borrowers are more likely to repay.
 
