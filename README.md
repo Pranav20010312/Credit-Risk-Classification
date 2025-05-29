@@ -1,4 +1,4 @@
-# 🏦 Credit Risk Modeling & Scorecard System
+# 🏦 Credit Risk Classification
 
 ## 📌 Problem Statement
 
